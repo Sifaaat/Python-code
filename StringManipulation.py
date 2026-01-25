@@ -1,1 +1,0 @@
-print('String manipulation exercise \nString concretenqtion is done with "+" Sign \ne.g print("Hello" + "Jenny") \nNew lines can be creatred with a backslash and n ')
